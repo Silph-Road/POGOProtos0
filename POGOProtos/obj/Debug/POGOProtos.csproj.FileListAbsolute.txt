@@ -1,0 +1,7 @@
+c:\users\ralf\documents\visual studio 2015\Projects\POGOProtos\POGOProtos\bin\Debug\POGOProtos.dll
+c:\users\ralf\documents\visual studio 2015\Projects\POGOProtos\POGOProtos\bin\Debug\POGOProtos.pdb
+c:\users\ralf\documents\visual studio 2015\Projects\POGOProtos\POGOProtos\bin\Debug\Google.Protobuf.dll
+c:\users\ralf\documents\visual studio 2015\Projects\POGOProtos\POGOProtos\bin\Debug\Google.Protobuf.xml
+c:\users\ralf\documents\visual studio 2015\Projects\POGOProtos\POGOProtos\obj\Debug\POGOProtos.csprojResolveAssemblyReference.cache
+c:\users\ralf\documents\visual studio 2015\Projects\POGOProtos\POGOProtos\obj\Debug\POGOProtos.dll
+c:\users\ralf\documents\visual studio 2015\Projects\POGOProtos\POGOProtos\obj\Debug\POGOProtos.pdb
