@@ -85,47 +85,47 @@ namespace POGOProtos.Networking.Requests.Messages {
             "bBgDIAEoCRIOCgZsb2NhbGUYBCABKAkSEwoLYXBwX3ZlcnNpb24YBSABKA0i",
             "XgoZU2V0Q29udGFjdFNldHRpbmdzTWVzc2FnZRJBChBjb250YWN0X3NldHRp",
             "bmdzGAEgASgLMicuUE9HT1Byb3Rvcy5EYXRhLlBsYXllci5Db250YWN0U2V0",
-            "dGluZ3MiEgoQR2V0UGxheWVyTWVzc2FnZSJgChtSZWN5Y2xlSW52ZW50b3J5",
-            "SXRlbU1lc3NhZ2USMgoHaXRlbV9pZBgBIAEoDjIhLlBPR09Qcm90b3MuSW52",
-            "ZW50b3J5Lkl0ZW0uSXRlbUlkEg0KBWNvdW50GAIgASgFIioKFEV2b2x2ZVBv",
-            "a2Vtb25NZXNzYWdlEhIKCnBva2Vtb25faWQYASABKAYiQQoUU2V0UGxheWVy",
-            "VGVhbU1lc3NhZ2USKQoEdGVhbRgBIAEoDjIbLlBPR09Qcm90b3MuRW51bXMu",
-            "VGVhbUNvbG9yIigKFENsYWltQ29kZW5hbWVNZXNzYWdlEhAKCGNvZGVuYW1l",
-            "GAEgASgJIj4KFk5pY2tuYW1lUG9rZW1vbk1lc3NhZ2USEgoKcG9rZW1vbl9p",
-            "ZBgBIAEoBhIQCghuaWNrbmFtZRgCIAEoCSIxCh1DaGVja0NvZGVuYW1lQXZh",
-            "aWxhYmxlTWVzc2FnZRIQCghjb2RlbmFtZRgBIAEoCSJwChRHZXRNYXBPYmpl",
-            "Y3RzTWVzc2FnZRITCgdjZWxsX2lkGAEgAygEQgIQARIeChJzaW5jZV90aW1l",
-            "c3RhbXBfbXMYAiADKANCAhABEhAKCGxhdGl0dWRlGAMgASgBEhEKCWxvbmdp",
-            "dHVkZRgEIAEoASKGAQoUR2V0R3ltRGV0YWlsc01lc3NhZ2USDgoGZ3ltX2lk",
-            "GAEgASgJEhcKD3BsYXllcl9sYXRpdHVkZRgCIAEoARIYChBwbGF5ZXJfbG9u",
-            "Z2l0dWRlGAMgASgBEhQKDGd5bV9sYXRpdHVkZRgEIAEoARIVCg1neW1fbG9u",
-            "Z2l0dWRlGAUgASgBIkEKGlVzZUl0ZW1FZ2dJbmN1YmF0b3JNZXNzYWdlEg8K",
-            "B2l0ZW1faWQYASABKAkSEgoKcG9rZW1vbl9pZBgCIAEoBCIeChxHZXRTdWdn",
-            "ZXN0ZWRDb2RlbmFtZXNNZXNzYWdlIg0KC0VjaG9NZXNzYWdlIkwKEVVzZUlu",
-            "Y2Vuc2VNZXNzYWdlEjcKDGluY2Vuc2VfdHlwZRgBIAEoDjIhLlBPR09Qcm90",
-            "b3MuSW52ZW50b3J5Lkl0ZW0uSXRlbUlkIioKFkdldERvd25sb2FkVXJsc01l",
-            "c3NhZ2USEAoIYXNzZXRfaWQYASADKAkiJgoVTGV2ZWxVcFJld2FyZHNNZXNz",
-            "YWdlEg0KBWxldmVsGAEgASgFIhcKFUdldEhhdGNoZWRFZ2dzTWVzc2FnZSJz",
-            "ChBFbmNvdW50ZXJNZXNzYWdlEhQKDGVuY291bnRlcl9pZBgBIAEoBhIWCg5z",
-            "cGF3bl9wb2ludF9pZBgCIAEoCRIXCg9wbGF5ZXJfbGF0aXR1ZGUYAyABKAES",
-            "GAoQcGxheWVyX2xvbmdpdHVkZRgEIAEoASJwChREaXNrRW5jb3VudGVyTWVz",
-            "c2FnZRIUCgxlbmNvdW50ZXJfaWQYASABKAQSDwoHZm9ydF9pZBgCIAEoCRIX",
-            "Cg9wbGF5ZXJfbGF0aXR1ZGUYAyABKAESGAoQcGxheWVyX2xvbmdpdHVkZRgE",
-            "IAEoASIbChlDaGVja0F3YXJkZWRCYWRnZXNNZXNzYWdlIh4KHERvd25sb2Fk",
-            "SXRlbVRlbXBsYXRlc01lc3NhZ2UiRAoRRXF1aXBCYWRnZU1lc3NhZ2USLwoK",
-            "YmFkZ2VfdHlwZRgBIAEoDjIbLlBPR09Qcm90b3MuRW51bXMuQmFkZ2VUeXBl",
-            "Il4KFFVzZUl0ZW1SZXZpdmVNZXNzYWdlEjIKB2l0ZW1faWQYASABKA4yIS5Q",
-            "T0dPUHJvdG9zLkludmVudG9yeS5JdGVtLkl0ZW1JZBISCgpwb2tlbW9uX2lk",
-            "GAIgASgGIisKFVJlbGVhc2VQb2tlbW9uTWVzc2FnZRISCgpwb2tlbW9uX2lk",
-            "GAEgASgGInkKFVVzZUl0ZW1DYXB0dXJlTWVzc2FnZRIyCgdpdGVtX2lkGAEg",
-            "ASgOMiEuUE9HT1Byb3Rvcy5JbnZlbnRvcnkuSXRlbS5JdGVtSWQSFAoMZW5j",
-            "b3VudGVyX2lkGAIgASgGEhYKDnNwYXduX3BvaW50X2lkGAMgASgJIpsBChtN",
-            "YXJrVHV0b3JpYWxDb21wbGV0ZU1lc3NhZ2USPAoTdHV0b3JpYWxzX2NvbXBs",
-            "ZXRlZBgBIAMoDjIfLlBPR09Qcm90b3MuRW51bXMuVHV0b3JpYWxTdGF0ZRId",
-            "ChVzZW5kX21hcmtldGluZ19lbWFpbHMYAiABKAgSHwoXc2VuZF9wdXNoX25v",
-            "dGlmaWNhdGlvbnMYAyABKAgiTwoQU2V0QXZhdGFyTWVzc2FnZRI7Cg1wbGF5",
-            "ZXJfYXZhdGFyGAIgASgLMiQuUE9HT1Byb3Rvcy5EYXRhLlBsYXllci5QbGF5",
-            "ZXJBdmF0YXJQAFABUAJQA2IGcHJvdG8z"));
+            "dGluZ3MiJwoQR2V0UGxheWVyTWVzc2FnZRITCgthcHBfdmVyc2lvbhgBIAEo",
+            "CSJgChtSZWN5Y2xlSW52ZW50b3J5SXRlbU1lc3NhZ2USMgoHaXRlbV9pZBgB",
+            "IAEoDjIhLlBPR09Qcm90b3MuSW52ZW50b3J5Lkl0ZW0uSXRlbUlkEg0KBWNv",
+            "dW50GAIgASgFIioKFEV2b2x2ZVBva2Vtb25NZXNzYWdlEhIKCnBva2Vtb25f",
+            "aWQYASABKAYiQQoUU2V0UGxheWVyVGVhbU1lc3NhZ2USKQoEdGVhbRgBIAEo",
+            "DjIbLlBPR09Qcm90b3MuRW51bXMuVGVhbUNvbG9yIigKFENsYWltQ29kZW5h",
+            "bWVNZXNzYWdlEhAKCGNvZGVuYW1lGAEgASgJIj4KFk5pY2tuYW1lUG9rZW1v",
+            "bk1lc3NhZ2USEgoKcG9rZW1vbl9pZBgBIAEoBhIQCghuaWNrbmFtZRgCIAEo",
+            "CSIxCh1DaGVja0NvZGVuYW1lQXZhaWxhYmxlTWVzc2FnZRIQCghjb2RlbmFt",
+            "ZRgBIAEoCSJwChRHZXRNYXBPYmplY3RzTWVzc2FnZRITCgdjZWxsX2lkGAEg",
+            "AygEQgIQARIeChJzaW5jZV90aW1lc3RhbXBfbXMYAiADKANCAhABEhAKCGxh",
+            "dGl0dWRlGAMgASgBEhEKCWxvbmdpdHVkZRgEIAEoASKGAQoUR2V0R3ltRGV0",
+            "YWlsc01lc3NhZ2USDgoGZ3ltX2lkGAEgASgJEhcKD3BsYXllcl9sYXRpdHVk",
+            "ZRgCIAEoARIYChBwbGF5ZXJfbG9uZ2l0dWRlGAMgASgBEhQKDGd5bV9sYXRp",
+            "dHVkZRgEIAEoARIVCg1neW1fbG9uZ2l0dWRlGAUgASgBIkEKGlVzZUl0ZW1F",
+            "Z2dJbmN1YmF0b3JNZXNzYWdlEg8KB2l0ZW1faWQYASABKAkSEgoKcG9rZW1v",
+            "bl9pZBgCIAEoBCIeChxHZXRTdWdnZXN0ZWRDb2RlbmFtZXNNZXNzYWdlIg0K",
+            "C0VjaG9NZXNzYWdlIkwKEVVzZUluY2Vuc2VNZXNzYWdlEjcKDGluY2Vuc2Vf",
+            "dHlwZRgBIAEoDjIhLlBPR09Qcm90b3MuSW52ZW50b3J5Lkl0ZW0uSXRlbUlk",
+            "IioKFkdldERvd25sb2FkVXJsc01lc3NhZ2USEAoIYXNzZXRfaWQYASADKAki",
+            "JgoVTGV2ZWxVcFJld2FyZHNNZXNzYWdlEg0KBWxldmVsGAEgASgFIhcKFUdl",
+            "dEhhdGNoZWRFZ2dzTWVzc2FnZSJzChBFbmNvdW50ZXJNZXNzYWdlEhQKDGVu",
+            "Y291bnRlcl9pZBgBIAEoBhIWCg5zcGF3bl9wb2ludF9pZBgCIAEoCRIXCg9w",
+            "bGF5ZXJfbGF0aXR1ZGUYAyABKAESGAoQcGxheWVyX2xvbmdpdHVkZRgEIAEo",
+            "ASJwChREaXNrRW5jb3VudGVyTWVzc2FnZRIUCgxlbmNvdW50ZXJfaWQYASAB",
+            "KAQSDwoHZm9ydF9pZBgCIAEoCRIXCg9wbGF5ZXJfbGF0aXR1ZGUYAyABKAES",
+            "GAoQcGxheWVyX2xvbmdpdHVkZRgEIAEoASIbChlDaGVja0F3YXJkZWRCYWRn",
+            "ZXNNZXNzYWdlIh4KHERvd25sb2FkSXRlbVRlbXBsYXRlc01lc3NhZ2UiRAoR",
+            "RXF1aXBCYWRnZU1lc3NhZ2USLwoKYmFkZ2VfdHlwZRgBIAEoDjIbLlBPR09Q",
+            "cm90b3MuRW51bXMuQmFkZ2VUeXBlIl4KFFVzZUl0ZW1SZXZpdmVNZXNzYWdl",
+            "EjIKB2l0ZW1faWQYASABKA4yIS5QT0dPUHJvdG9zLkludmVudG9yeS5JdGVt",
+            "Lkl0ZW1JZBISCgpwb2tlbW9uX2lkGAIgASgGIisKFVJlbGVhc2VQb2tlbW9u",
+            "TWVzc2FnZRISCgpwb2tlbW9uX2lkGAEgASgGInkKFVVzZUl0ZW1DYXB0dXJl",
+            "TWVzc2FnZRIyCgdpdGVtX2lkGAEgASgOMiEuUE9HT1Byb3Rvcy5JbnZlbnRv",
+            "cnkuSXRlbS5JdGVtSWQSFAoMZW5jb3VudGVyX2lkGAIgASgGEhYKDnNwYXdu",
+            "X3BvaW50X2lkGAMgASgJIpsBChtNYXJrVHV0b3JpYWxDb21wbGV0ZU1lc3Nh",
+            "Z2USPAoTdHV0b3JpYWxzX2NvbXBsZXRlZBgBIAMoDjIfLlBPR09Qcm90b3Mu",
+            "RW51bXMuVHV0b3JpYWxTdGF0ZRIdChVzZW5kX21hcmtldGluZ19lbWFpbHMY",
+            "AiABKAgSHwoXc2VuZF9wdXNoX25vdGlmaWNhdGlvbnMYAyABKAgiTwoQU2V0",
+            "QXZhdGFyTWVzc2FnZRI7Cg1wbGF5ZXJfYXZhdGFyGAIgASgLMiQuUE9HT1By",
+            "b3Rvcy5EYXRhLlBsYXllci5QbGF5ZXJBdmF0YXJQAFABUAJQA2IGcHJvdG8z"));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { global::POGOProtos.Inventory.Item.POGOProtosInventoryItemReflection.Descriptor, global::POGOProtos.Enums.POGOProtosEnumsReflection.Descriptor, global::POGOProtos.Data.Battle.POGOProtosDataBattleReflection.Descriptor, global::POGOProtos.Data.Player.POGOProtosDataPlayerReflection.Descriptor, },
           new pbr::GeneratedClrTypeInfo(null, new pbr::GeneratedClrTypeInfo[] {
@@ -155,7 +155,7 @@ namespace POGOProtos.Networking.Requests.Messages {
             new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Networking.Requests.Messages.IncenseEncounterMessage), global::POGOProtos.Networking.Requests.Messages.IncenseEncounterMessage.Parser, new[]{ "EncounterId", "EncounterLocation" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Networking.Requests.Messages.DownloadRemoteConfigVersionMessage), global::POGOProtos.Networking.Requests.Messages.DownloadRemoteConfigVersionMessage.Parser, new[]{ "Platform", "DeviceManufacturer", "DeviceModel", "Locale", "AppVersion" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Networking.Requests.Messages.SetContactSettingsMessage), global::POGOProtos.Networking.Requests.Messages.SetContactSettingsMessage.Parser, new[]{ "ContactSettings" }, null, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Networking.Requests.Messages.GetPlayerMessage), global::POGOProtos.Networking.Requests.Messages.GetPlayerMessage.Parser, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Networking.Requests.Messages.GetPlayerMessage), global::POGOProtos.Networking.Requests.Messages.GetPlayerMessage.Parser, new[]{ "AppVersion" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Networking.Requests.Messages.RecycleInventoryItemMessage), global::POGOProtos.Networking.Requests.Messages.RecycleInventoryItemMessage.Parser, new[]{ "ItemId", "Count" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Networking.Requests.Messages.EvolvePokemonMessage), global::POGOProtos.Networking.Requests.Messages.EvolvePokemonMessage.Parser, new[]{ "PokemonId" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::POGOProtos.Networking.Requests.Messages.SetPlayerTeamMessage), global::POGOProtos.Networking.Requests.Messages.SetPlayerTeamMessage.Parser, new[]{ "Team" }, null, null, null),
@@ -4476,9 +4476,6 @@ namespace POGOProtos.Networking.Requests.Messages {
 
   }
 
-  /// <summary>
-  ///  No message needed.
-  /// </summary>
   public sealed partial class GetPlayerMessage : pb::IMessage<GetPlayerMessage> {
     private static readonly pb::MessageParser<GetPlayerMessage> _parser = new pb::MessageParser<GetPlayerMessage>(() => new GetPlayerMessage());
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4503,11 +4500,26 @@ namespace POGOProtos.Networking.Requests.Messages {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public GetPlayerMessage(GetPlayerMessage other) : this() {
+      appVersion_ = other.appVersion_;
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public GetPlayerMessage Clone() {
       return new GetPlayerMessage(this);
+    }
+
+    /// <summary>Field number for the "app_version" field.</summary>
+    public const int AppVersionFieldNumber = 1;
+    private string appVersion_ = "";
+    /// <summary>
+    ///  Human readable app version, e.g. "0.31.1"
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    public string AppVersion {
+      get { return appVersion_; }
+      set {
+        appVersion_ = pb::ProtoPreconditions.CheckNotNull(value, "value");
+      }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4523,12 +4535,14 @@ namespace POGOProtos.Networking.Requests.Messages {
       if (ReferenceEquals(other, this)) {
         return true;
       }
+      if (AppVersion != other.AppVersion) return false;
       return true;
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public override int GetHashCode() {
       int hash = 1;
+      if (AppVersion.Length != 0) hash ^= AppVersion.GetHashCode();
       return hash;
     }
 
@@ -4539,11 +4553,18 @@ namespace POGOProtos.Networking.Requests.Messages {
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public void WriteTo(pb::CodedOutputStream output) {
+      if (AppVersion.Length != 0) {
+        output.WriteRawTag(10);
+        output.WriteString(AppVersion);
+      }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     public int CalculateSize() {
       int size = 0;
+      if (AppVersion.Length != 0) {
+        size += 1 + pb::CodedOutputStream.ComputeStringSize(AppVersion);
+      }
       return size;
     }
 
@@ -4551,6 +4572,9 @@ namespace POGOProtos.Networking.Requests.Messages {
     public void MergeFrom(GetPlayerMessage other) {
       if (other == null) {
         return;
+      }
+      if (other.AppVersion.Length != 0) {
+        AppVersion = other.AppVersion;
       }
     }
 
@@ -4562,6 +4586,10 @@ namespace POGOProtos.Networking.Requests.Messages {
           default:
             input.SkipLastField();
             break;
+          case 10: {
+            AppVersion = input.ReadString();
+            break;
+          }
         }
       }
     }
